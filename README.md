@@ -7,10 +7,6 @@ Welcome to my **Data Analytics Projects** repository! This collection showcases 
 ### 1. **AtliQ Hardwares - Sales & Finance Analytics**
    - **Objective**: Analyze the sales and financial performance of AtliQ Hardwares from 2019 to 2021, with a focus on identifying growth trends, top-performing markets, and product-level insights.
    - **Tools Used**: Excel, Power Query, DAX
-   - **Key Insights**: 
-     - India led in net sales for 2021 with $93.4M.
-     - Declining sales trends were observed for major e-commerce platforms like Amazon and Flipkart.
-     - Desktop Processor sales grew by 42.6%, indicating high demand.
    - [Link to Detailed Report](https://github.com/mukeshsundar23/Data-Analytics-Projects/tree/b515d9a2354ed39f42ed9d000f5aebc56bf9c794/Excel%20Projects)
 
 ## Skills Demonstrated
