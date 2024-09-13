@@ -11,7 +11,7 @@ Welcome to my **Data Analytics Projects** repository! This collection showcases 
      - India led in net sales for 2021 with $93.4M.
      - Declining sales trends were observed for major e-commerce platforms like Amazon and Flipkart.
      - Desktop Processor sales grew by 42.6%, indicating high demand.
-   - [Link to Detailed Report](#)
+   - [Link to Detailed Report](https://github.com/mukeshsundar23/Data-Analytics-Projects/tree/main/Excel%20Projects)
 
 ## Skills Demonstrated
 - **Data Cleaning and Transformation**: Handling messy data using Power Query, Pandas, and SQL.
