@@ -23,5 +23,5 @@ Welcome to my **Data Analytics Projects** repository! This collection showcases 
 ## Contact Information
 If you have any questions or would like to collaborate, feel free to reach out!
 
-- **LinkedIn**: [Mukesh Sundar](https://www.linkedin.com/in/mukeshsundar23)
+- **LinkedIn**: [Mukesh Sundar](https://www.linkedin.com/in/mukeshsundarp/)
 - **Email**: mukeshsundar2362004@gmail.com
